@@ -1,0 +1,20 @@
+{
+  "episode_count": 30,
+  "steps": 10000,
+  "eval_split": 0.0,
+  "mask": "right_edge",
+  "home": "stack_home.json",
+  "max_duration": 60,
+  "task": "stack cylinder on prism then garlic on cylinder",
+  "camera_width": 640,
+  "camera_height": 480,
+  "fps": 30,
+  "external_camera": 1,
+  "hand_camera": 0,
+  "seed": 1000,
+  "batch_size": 4,
+  "chunk_size": 100,
+  "n_action_steps": 100,
+  "historical_resume": true,
+  "hand_controls": {}
+}

@@ -1,0 +1,25 @@
+{
+  "episode_count": 29,
+  "steps": 10000,
+  "eval_split": 0.0,
+  "mask": "fixed_roi",
+  "home": "prism_home.json",
+  "max_duration": 60,
+  "task": "tip prism toward front then regrasp and restore upright",
+  "camera_width": 640,
+  "camera_height": 480,
+  "fps": 30,
+  "external_camera": 1,
+  "hand_camera": 0,
+  "seed": 1000,
+  "batch_size": 4,
+  "chunk_size": 100,
+  "n_action_steps": 100,
+  "historical_resume": false,
+  "hand_controls": {
+    "auto_exposure": 0.25,
+    "exposure": -8.0,
+    "contrast": 18.0,
+    "sharpness": 8.0
+  }
+}
