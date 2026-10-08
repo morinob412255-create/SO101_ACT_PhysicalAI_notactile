@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+models/
+datasets/
+runs/
+.venv/
+*.safetensors
+*.mp4

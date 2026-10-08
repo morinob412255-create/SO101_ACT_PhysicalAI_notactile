@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-08",
+  "checks": {
+    "syntax_compile": "passed",
+    "mask_unit_tests": "2 passed",
+    "preprocessing_fixture": "passed: video mask, per-episode and aggregate stats, source unchanged",
+    "synthetic_model_inference": "passed for stack, prism, cup: finite action with shape 1x6; no robot connection",
+    "training_command_generation": "passed, print-only",
+    "record_command_generation": "passed, print-only",
+    "evaluation_cli_import": "passed, --help"
+  },
+  "not_executed": [
+    "robot hardware execution",
+    "new training run",
+    "new demonstration recording"
+  ],
+  "notes": "Published evaluation runner is a vision-only refactoring of the historical runner. Weights and demonstration datasets are not included."
+}

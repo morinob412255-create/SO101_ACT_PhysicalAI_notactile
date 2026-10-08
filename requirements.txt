@@ -1,0 +1,5 @@
+numpy==2.2.6
+opencv-python==4.10.0.84
+safetensors==0.8.0
+pyarrow==25.0.0
+# torch 2.11.0+cu128 and LeRobot: see README.md
