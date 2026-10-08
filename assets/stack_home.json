@@ -1,0 +1,19 @@
+{
+  "pose": {
+    "shoulder_pan.pos": -25.054945054945055,
+    "shoulder_lift.pos": -93.75824175824175,
+    "elbow_flex.pos": 96.3956043956044,
+    "wrist_flex.pos": 62.72527472527472,
+    "wrist_roll.pos": 4.0,
+    "gripper.pos": 26.832641770401107
+  },
+  "units": {
+    "shoulder_pan.pos": "degrees",
+    "shoulder_lift.pos": "degrees",
+    "elbow_flex.pos": "degrees",
+    "wrist_flex.pos": "degrees",
+    "wrist_roll.pos": "degrees",
+    "gripper.pos": "percent"
+  },
+  "tolerance": 3.0
+}
