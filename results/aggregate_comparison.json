@@ -1,0 +1,50 @@
+[
+  {
+    "task": "stack",
+    "input": "none",
+    "success": 3,
+    "trials": 20,
+    "percent": 15.0,
+    "scope": "selected_evaluation_set"
+  },
+  {
+    "task": "stack",
+    "input": "Fz",
+    "success": 12,
+    "trials": 20,
+    "percent": 60.0,
+    "scope": "selected_evaluation_set"
+  },
+  {
+    "task": "prism",
+    "input": "none",
+    "success": 3,
+    "trials": 10,
+    "percent": 30.0,
+    "scope": "selected_evaluation_set"
+  },
+  {
+    "task": "cup",
+    "input": "none",
+    "success": 6,
+    "trials": 20,
+    "percent": 30.0,
+    "scope": "selected_evaluation_set"
+  },
+  {
+    "task": "cup",
+    "input": "Fz",
+    "success": 12,
+    "trials": 20,
+    "percent": 60.0,
+    "scope": "first20"
+  },
+  {
+    "task": "prism",
+    "input": "Fz",
+    "success": 4,
+    "trials": 10,
+    "percent": 40.0,
+    "scope": "selected_evaluation_set"
+  }
+]

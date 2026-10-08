@@ -1,0 +1,11 @@
+﻿trial,result,failure_reason,failure_note,elapsed_s,frames,overruns
+1,Success,,,31.882,668,667
+2,Fail,stage1,topple,32.712,704,694
+3,Fail,stage1,first_grasp,12.161,269,258
+4,Fail,stage1,topple,23.435,501,492
+5,Fail,stage2,regrasp,34.096,671,667
+6,Success,,,40.886,846,838
+7,Success,,,36.078,739,719
+8,Fail,stage2,regrasp,30.545,604,597
+9,Fail,stage2,regrasp,40.898,845,839
+10,Fail,stage1,topple,17.440,361,355
